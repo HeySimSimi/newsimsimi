@@ -4,7 +4,8 @@ SimSimi is an AI chatbot that engages users in conversation, often with humorous
 
 # Download
 
-![Google Play](https://img.shields.io/endpoint?url=https://play.cuzi.workers.dev/play?i=com.ismaker.android.simsimi&l=$name&m=$shortinstalls)
+![Google Play](https://img.shields.io/endpoint?url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.ismaker.android.simsimi%26l%3D%24name%26m%3D%24shortinstalls&style=flat&logo=GooglePlay&color=Green
+)
   
 # Official channel
 #### Social media
