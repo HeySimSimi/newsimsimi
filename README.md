@@ -1,5 +1,7 @@
 # ![SimSimi Logo](https://chatbrain.kr/images/logo.jpg)
 ![Discord](https://img.shields.io/discord/1019087711732256808?style=flat&logo=Discord&logoColor=%23FFFFFF&color=%235865F2) 
+
+SimSimi is an AI chatbot that engages users in conversation, often with humorous or quirky responses. It learns from interactions with users, which can lead to a wide variety of replies. If you're looking for a specific type of conversation or a particular topic, let me know, and I can help simulate a chat or provide similar responses!
 # Official channel
 ### Blog posting
 ![Blogger](https://img.shields.io/badge/Official%20blog%20SimSimi%20-%20on%20Blogger-%23FF5722?style=flat&logo=Blogger&logoColor=%23FFFFFF)
