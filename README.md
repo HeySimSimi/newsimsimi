@@ -2,11 +2,11 @@
 ![Discord](https://img.shields.io/discord/1019087711732256808?style=flat&logo=Discord&logoColor=%23FFFFFF&color=%235865F2) 
 # Official channel
 ### Blog posting
-![Blogger](https://img.shields.io/badge/Official%20channel%20SimSimi%20-%20on%20Blogger-%23FF5722?style=flat&logo=Blogger&logoColor=%23FFFFFF)
+![Blogger](https://img.shields.io/badge/Official%20blog%20SimSimi%20-%20on%20Blogger-%23FF5722?style=flat&logo=Blogger&logoColor=%23FFFFFF)
 
-![Medium](https://img.shields.io/badge/Official%20channel%20SimSimi%20-%20on%20Naver%20Blog-%2303C75A?style=flat&logo=Naver&logoColor=%23FFFFFF)
+![Medium](https://img.shields.io/badge/Official%20blog%20SimSimi%20-%20on%20Naver%20Blog-%2303C75A?style=flat&logo=Naver&logoColor=%23FFFFFF)
 
-![English Blog](https://img.shields.io/badge/Official%20channel%20SimSimi%20-%20on%20Medium-white?style=flat&logo=Medium&logoColor=%23FFFFFF)
+![English Blog](https://img.shields.io/badge/Official%20blog%20SimSimi%20-%20on%20Medium-white?style=flat&logo=Medium&logoColor=%23FFFFFF)
 ### Social media
 ![Telegram](https://img.shields.io/badge/Official%20channel%20SimSimi%20-%20on%20Telegram-%230088CC?style=flat&logo=Telegram&logoColor=%23FFFFFF) 
 
