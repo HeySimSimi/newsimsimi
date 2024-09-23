@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Chat
+# 채팅
 
-## Teach
+## 가르치다
 
 우리는 다양한 채팅을 지원합니다 [심심이가 가르쳐요](/teach). 모든 로봇은 채팅을 요청하다을 사용하여 참조됩니다:
 
@@ -18,5 +18,7 @@ sidebar_position: 2
 
 
 ## 정신 건강 AI
+
+![스크린샷](https://www.medipharmhealth.co.kr/data/photos/20200731/art_15960724600077_238832.png)
 
 심심이 박사님께서 알려주신 좋은 정신건강 정보입니다. 심심이 (HQ)의 제품
