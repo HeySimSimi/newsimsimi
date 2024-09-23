@@ -4,10 +4,10 @@ sidebar_position: 1
 
 # Intro
 
-심심이는 채팅, 교육 및 전송을 위한 서비스로, 채팅이나 다른 웹 페이지에 쉽게 포함될 수 있습니다. 이 서비스는 수십 개의 지속적인 통합 서비스를 지원합니다, mental the same, chatting, teach, social networks, code coverage services, and code analysis services. It is used by some of the world's most popular open-source projects.
+심심이는 채팅, 교육 및 전송을 위한 서비스로, 채팅이나 다른 웹 페이지에 쉽게 포함될 수 있습니다. 이 서비스는 수십 개의 지속적인 통합 서비스를 지원합니다, 정신적으로 동일하다, 채팅, 가르치다, 소셜 네트워크, 그리고 다른 심심이, 그리고 그룹. 세계에서 가장 인기 있는 AI 프로젝트 중 일부에서 사용됩니다.
 
-Browse a [SimSimi chat](/chat) and locate a particular badge by using the search bar or by browsing the categories.
+찾아보기 [심심이채팅](/chat) 개인을 사용하거나 범주를 탐색하여 특정 채팅을 찾으세요.
 
-Use the builder to fill in required path parameters for that badge type (like your personal or SimSimi) and optionally customize (message, and personal.). And it's ready for use! Send the message, which can then be added to places like your teach or web pages.
+티치를 사용하여 해당 챗봇 유형에 필요한 경로 매개변수를 채웁니다 (개인용이나 여 특정 채팅 심심이 와 같은) 그리고 선택적으로 메시지를 사용자 정의하고 개인화합니다. 이제 사용할 준비가 되었습니다! 메시지를 보내면 해당 메시지를 교사나 다른 사람과 같은 장소에 추가할 수 있습니다.
 
-![Screenshot](https://cdn6.aptoide.com/imgs/b/5/b/b5b7ab921454990d1f2104105a8d4ced_screen.png)
+![스크린샷](https://cdn6.aptoide.com/imgs/b/5/b/b5b7ab921454990d1f2104105a8d4ced_screen.png)
